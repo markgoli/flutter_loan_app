@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5340469727",
+    "project_id": "lmloan",
+    "storage_bucket": "lmloan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5340469727:android:92f41588445524d4358c6a",
+        "android_client_info": {
+          "package_name": "com.example.lmloan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdrZ40hfzJiLlEkwJUeQ2H3-Zj_njAzPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
